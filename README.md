@@ -1,3 +1,3 @@
 # Code 301 Final Project Prep
- - [Team Agreement](teamargeement.md)
+ - [Team Agreement](teamagreement.md)
  - [Project Pitches](projectpitches.md)
