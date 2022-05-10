@@ -3,4 +3,4 @@
  - [Project Pitches](projectpitches.md)
  - [Trello Project Mangement Board](https://trello.com/b/TgrugjKP/videogamer-finder)
         - [Workspace invite link](https://trello.com/invite/marissacode301/fbb96cdc0415e8f44efc27c2439b9abe)
-        
+ - [Wireframe Jamboard](https://jamboard.google.com/d/1Vs0FZFpyCRsMrtVDRc1gWbtm0OPBX0DXwFdm7_9aKdU/edit?usp=sharing)
