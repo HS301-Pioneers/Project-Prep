@@ -5,5 +5,6 @@
         - [Workspace invite link](https://trello.com/invite/marissacode301/fbb96cdc0415e8f44efc27c2439b9abe)
  - [Wireframe Jamboard](https://jamboard.google.com/d/1Vs0FZFpyCRsMrtVDRc1gWbtm0OPBX0DXwFdm7_9aKdU/edit?usp=sharing)
  - [Color Wheel](https://color.adobe.com/create/color-wheel)
+ - [Software Requirements](software-requirements.md)
  - ![Wireframe Part1](WireframePart1.png)
--  ![Wireframe Part1](WireframePart2.png)
+ - ![Wireframe Part1](WireframePart2.png)
