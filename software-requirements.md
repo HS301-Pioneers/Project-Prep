@@ -42,3 +42,9 @@
 - User has the option to add the game to wishlist
 - User can see/ view all their games on their wishlist
 - User can choose to delete a game off their wishlist
+
+## Non-Fuunctional Requirements
+- Resourceful
+- Personal Experience
+- Organizational
+- User Friendly

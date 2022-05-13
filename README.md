@@ -8,3 +8,4 @@
  - [Software Requirements](software-requirements.md)
  - ![Wireframe Part1](WireframePart1.png)
  - ![Wireframe Part1](WireframePart2.png)
+ - [Domain Model](https://jamboard.google.com/d/1yGuNDKPbNPjXsJYheis_S5h_tdqNNxwvL-5pxWqPOjM/edit?usp=sharing)
