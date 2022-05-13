@@ -26,19 +26,19 @@
 - The MVP is an application that returns video games, based off the what the user searched. 
 
 ## Stretch Goals
--To filter the api results based on certain information/criteria. 
+- To filter the api results based on certain information/criteria. 
 
 ## Functional Requirments
--Retrieve data about video games
--Save our favorite games to a database
--delete games off our database
--Read our favorite games from our database
+- Retrieve data about video games
+- Save our favorite games to a database
+- delete games off our database
+- Read our favorite games from our database
 
 ## Data Flow
--The user sends a request first
--Axios gets information from api
--Data will be displayed on the screen in a neat manner
--User can click on the video game and see details about the game
--User has the option to add the game to wishlist
--User can see/ view all their games on their wishlist
--User can choose to delete a game off their wishlist
+- The user sends a request first
+- Axios gets information from api
+- Data will be displayed on the screen in a neat manner
+- User can click on the video game and see details about the game
+- User has the option to add the game to wishlist
+- User can see/ view all their games on their wishlist
+- User can choose to delete a game off their wishlist
