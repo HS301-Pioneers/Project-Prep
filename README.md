@@ -12,3 +12,5 @@
   - ![Domain Model](DomainModel1.png)
   - [Database Schema](https://jamboard.google.com/d/1io3JoFdL-wPY0lKVihG5AAyjAq5yOtAtSecky9Jb-dA/edit?usp=sharing)
   - ![Database Schema](DatabaseSchema.png)
+  - [API](https://rawg.io/apidocs)
+  - [API Key](https://api.rawg.io/docs/#tag/games)
